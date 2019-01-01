@@ -1,0 +1,28 @@
+body {
+    line-height: 2;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    color: #565656;
+    padding: 0px;
+    margin: 0px;
+}
+p,h1,h2,h3,h4,h5,h6{
+    padding: 0px;
+    margin: 0px;
+}
+.test-btn {
+    background-color: #fff;
+    padding: 15px;
+    margin-left: 15px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.text-to-center{
+    text-align: center;
+}
+
+.heroku-test{
+    color: #2196F3;
+    text-align: center;
+    font-size: 3rem;
+}
